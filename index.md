@@ -12,8 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-I have no clue what I'm doing.
-now I just keep getting 404 errors!
 ## Header 2
 ### Header 3
 
@@ -25,7 +23,7 @@ now I just keep getting 404 errors!
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src) "tech cat.jpeg"
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
