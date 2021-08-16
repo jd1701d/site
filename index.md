@@ -1,4 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
 
-<[Image](src)="tech cat.jpg">
-```
+<h2>HTML Image</h2>
+<img src="tech cat.jpg" alt="kitty help" width="500" height="333">
 
+</body>
+</html>
