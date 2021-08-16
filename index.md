@@ -12,7 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-I have no clue what I'm doing
+I have no clue what I'm doing.
+now I just keep getting 404 errors!
 ## Header 2
 ### Header 3
 
